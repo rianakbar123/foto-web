@@ -3,12 +3,6 @@
 <head>
     <title>album</title>
     <link rel="stylesheet" href="album.css">
-    <style>
-        .p1 {
-            border-radius: 20px;
-            background-color: pink;
-        }
-    </style>
   </head>
 <body class="p1">
 <div class="p1">
