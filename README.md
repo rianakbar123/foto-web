@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>album</title>
-    <link rel="stylesheet" href="album.css">
+    <link rel="stylesheet" href="album.md">
   </head>
 <body class="p1">
 <div class="p1">
